@@ -1,3 +1,3 @@
-## Angular2_Ridss_Reddit_App /play secret
+## Angular2_Ridss_Reddit_App  :speech_balloon:
 
- :octocat: Add Your Social Links  :octocat:
+ :octocat: Add Your Social Links  :octocat: 
